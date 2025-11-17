@@ -22,7 +22,7 @@ Your goal is to maximize total profit while completing the maximum number of job
 4. If a free slot exists, schedule the job and add its profit.  
 5. Return the number of jobs completed and the total profit earned.
 
-### Developed by: Abdur Rahman Basil A H 
+### Developed by: Abdur Rahman Basil A H  
 ### Register Number: 212223040002
 
 ## Program:
