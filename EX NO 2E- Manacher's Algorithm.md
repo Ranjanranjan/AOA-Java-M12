@@ -13,8 +13,8 @@ using **Manacher's Algorithm**.
 4. Expand around each center to find the maximum palindrome radius.  
 5. Convert the transformed indices back to the original string and return the longest palindromic substring.
 
-### Developed by: Abdur Rahman Basil A H
-### Register Number: 212223040002
+### Developed by: Ranjan K
+### Register Number: 212222230116
 
 ## Program:
 ```java
