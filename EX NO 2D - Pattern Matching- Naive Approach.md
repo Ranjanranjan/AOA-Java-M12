@@ -20,8 +20,8 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 4. If all characters match, record the starting index as a pattern match.
 5. Continue until the entire text is checked and print all matched positions.
 
-### Developed by: Abdur Rahman Basil A H  
-### Register Number: 212223040002
+### Developed by: Ranjan K
+### Register Number: 212222230116
 
 ## Program:
 ```java
